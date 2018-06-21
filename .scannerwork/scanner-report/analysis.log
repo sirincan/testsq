@@ -1,0 +1,153 @@
+Environment variables:
+  - HISTCONTROL=ignoredups
+  - HISTSIZE=1000
+  - HOME=/root
+  - HOSTNAME=jenkins.can.test.itu.edu.tr
+  - JAVA_HOME=/root/PAKETLER/sonar-scanner-3.2.0.1227-linux/jre
+  - LANG=en_US.UTF-8
+  - LESSOPEN=||/usr/bin/lesspipe.sh %s
+  - LOGNAME=root
+  - LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:
+  - MAIL=/var/spool/mail/root
+  - NLSPATH=/usr/dt/lib/nls/msg/%L/%N.cat
+  - PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/root/bin:/root/PAKETLER/sonar-scanner-3.2.0.1227-linux/bin/
+  - PWD=/root/can/testsq
+  - SHELL=/bin/bash
+  - SHLVL=1
+  - SSH_CLIENT=160.75.8.2 53894 22
+  - SSH_CONNECTION=160.75.8.2 53894 160.75.100.94 22
+  - SSH_TTY=/dev/pts/0
+  - TERM=xterm
+  - USER=root
+  - XDG_RUNTIME_DIR=/run/user/0
+  - XDG_SESSION_ID=10
+  - XFILESEARCHPATH=/usr/dt/app-defaults/%L/Dt
+System properties:
+  - awt.toolkit=sun.awt.X11.XToolkit
+  - file.encoding=UTF-8
+  - file.encoding.pkg=sun.io
+  - file.separator=/
+  - java.awt.graphicsenv=sun.awt.X11GraphicsEnvironment
+  - java.awt.headless=true
+  - java.awt.printerjob=sun.print.PSPrinterJob
+  - java.class.path=/root/PAKETLER/sonar-scanner-3.2.0.1227-linux/lib/sonar-scanner-cli-3.2.0.1227.jar
+  - java.class.version=52.0
+  - java.endorsed.dirs=/root/PAKETLER/sonar-scanner-3.2.0.1227-linux/jre/lib/endorsed
+  - java.ext.dirs=/root/PAKETLER/sonar-scanner-3.2.0.1227-linux/jre/lib/ext:/usr/java/packages/lib/ext
+  - java.home=/root/PAKETLER/sonar-scanner-3.2.0.1227-linux/jre
+  - java.io.tmpdir=/tmp
+  - java.library.path=/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+  - java.runtime.name=Java(TM) SE Runtime Environment
+  - java.runtime.version=1.8.0_121-b13
+  - java.specification.name=Java Platform API Specification
+  - java.specification.vendor=Oracle Corporation
+  - java.specification.version=1.8
+  - java.vendor=Oracle Corporation
+  - java.vendor.url=http://java.oracle.com/
+  - java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+  - java.version=1.8.0_121
+  - java.vm.info=mixed mode
+  - java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+  - java.vm.specification.name=Java Virtual Machine Specification
+  - java.vm.specification.vendor=Oracle Corporation
+  - java.vm.specification.version=1.8
+  - java.vm.vendor=Oracle Corporation
+  - java.vm.version=25.121-b13
+  - line.separator=
+
+  - os.arch=amd64
+  - os.name=Linux
+  - os.version=3.10.0-862.2.3.el7.x86_64
+  - path.separator=:
+  - project.home=/root/can/testsq
+  - scanner.home=/root/PAKETLER/sonar-scanner-3.2.0.1227-linux
+  - sun.arch.data.model=64
+  - sun.boot.class.path=/root/PAKETLER/sonar-scanner-3.2.0.1227-linux/jre/lib/resources.jar:/root/PAKETLER/sonar-scanner-3.2.0.1227-linux/jre/lib/rt.jar:/root/PAKETLER/sonar-scanner-3.2.0.1227-linux/jre/lib/sunrsasign.jar:/root/PAKETLER/sonar-scanner-3.2.0.1227-linux/jre/lib/jsse.jar:/root/PAKETLER/sonar-scanner-3.2.0.1227-linux/jre/lib/jce.jar:/root/PAKETLER/sonar-scanner-3.2.0.1227-linux/jre/lib/charsets.jar:/root/PAKETLER/sonar-scanner-3.2.0.1227-linux/jre/lib/jfr.jar:/root/PAKETLER/sonar-scanner-3.2.0.1227-linux/jre/classes
+  - sun.boot.library.path=/root/PAKETLER/sonar-scanner-3.2.0.1227-linux/jre/lib/amd64
+  - sun.cpu.endian=little
+  - sun.cpu.isalist=
+  - sun.io.unicode.encoding=UnicodeLittle
+  - sun.java.command=org.sonarsource.scanner.cli.Main -X
+  - sun.java.launcher=SUN_STANDARD
+  - sun.jnu.encoding=UTF-8
+  - sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+  - sun.os.patch.level=unknown
+  - user.country=US
+  - user.dir=/root/can/testsq
+  - user.home=/root
+  - user.language=en
+  - user.name=root
+  - user.timezone=Europe/Istanbul
+SonarQube plugins:
+  - Bitbucket Authentication for SonarQube 1.1.0.344 (authbitbucket)
+  - SonarPLSQL 3.2.0.1753 (plsql)
+  - SonarC# 7.2.0.5463 (csharp)
+  - SonarSecurity 7.2.0.944 (security)
+  - SonarJava 5.4.0.14284 (java)
+  - SonarWeb 2.6.0.1053 (web)
+  - SonarFlex 2.4.0.1222 (flex)
+  - SonarXML 1.5.1.1452 (xml)
+  - SonarTS 1.7.0.2828 (typescript)
+  - SonarVB 5.1.0.442 (vbnet)
+  - SonarSwift 3.3.0.2492 (swift)
+  - GitHub 1.4.2.1027 (github)
+  - SonarCFamily 5.1.0.10083 (cpp)
+  - SonarPython 1.10.0.2131 (python)
+  - GitHub Authentication for SonarQube 1.4.0.660 (authgithub)
+  - Mercurial 1.1.1 (scmmercurial)
+  - SonarGo 1.1.0.1612 (go)
+  - Microsoft Authentication for SonarCloud 1.0.0.157 (authmicrosoft)
+  - SonarTSQL 1.2.0.2539 (tsql)
+  - SonarJS 4.1.0.6085 (javascript)
+  - License for SonarLint 7.3.0.13459 (license)
+  - Git 1.5.0.1160 (scmgit)
+  - SonarPHP 2.13.0.3107 (php)
+  - SonarABAP 3.6.0.1269 (abap)
+Global properties:
+  - email.from=noreply@sonarcloud.io
+  - email.prefix=[SonarCloud]
+  - sonar.auth.bitbucket.enabled=true
+  - sonar.auth.github.allowUsersToSignUp=true
+  - sonar.auth.github.enabled=true
+  - sonar.auth.microsoft.enabled=true
+  - sonar.core.id=AWHW8ct9-T_TB3XqouNu
+  - sonar.core.serverBaseURL=https://sonarcloud.io
+  - sonar.core.startTime=2018-06-18T12:48:27+0200
+  - sonar.cpd.cross_project=false
+  - sonar.dbcleaner.daysBeforeDeletingClosedIssues=730
+  - sonar.dbcleaner.weeksBeforeDeletingAllSnapshots=480
+  - sonar.dbcleaner.weeksBeforeKeepingOnlyOneSnapshotByMonth=4
+  - sonar.dbcleaner.weeksBeforeKeepingOnlyOneSnapshotByWeek=1
+  - sonar.java.collectAnalysisErrors=true
+  - sonar.leak.period=30
+  - sonar.lf.aboutText=<div class="boxed-group" style="border: none; border-radius: 3px;">
+  <div class="boxed-group-inner clearfix" style="padding: 30px; border-radius: 3px; border: #e6e6e6 1px solid; background: #f3f3f3;">
+    <div style="overflow: hidden; line-height: 1.5; font-size: 16px;">
+      <p>
+Analyze your open source and private projects on SonarCloud.
+Select your <a href="https://about.sonarcloud.io">plan</a> and start improving. 
+      </p>
+    </div>
+  </div>
+</div>
+  - sonar.lf.enableGravatar=true
+  - sonar.lf.logoUrl=https://about.sonarcloud.io/images/SonarCloud-white-210px.png
+  - sonar.lf.logoWidthPx=105
+  - sonar.organizations.anyoneCanCreate=true
+  - sonar.organizations.createPersonalOrg=true
+  - sonar.plsql.file.suffixes=sql,tab,pkb
+  - sonar.tsql.file.suffixes=.tsql
+Settings for module: testsq:project
+  - sonar.host.url=https://sonarcloud.io
+  - sonar.login=******
+  - sonar.organization=sirincan-github
+  - sonar.projectBaseDir=/root/can/testsq
+  - sonar.projectKey=testsq:project
+  - sonar.projectName=testsq
+  - sonar.projectVersion=1.0
+  - sonar.scanner.app=ScannerCli
+  - sonar.scanner.appVersion=3.2.0.1227
+  - sonar.sourceEncoding=UTF-8
+  - sonar.sources=.
+  - sonar.verbose=true
+  - sonar.working.directory=/root/can/testsq/.scannerwork
